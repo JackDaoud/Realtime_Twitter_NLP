@@ -1,2 +1,3 @@
 .DS_Store
 /connect_to_ec2.command
+/EC2/JacksEC2KeyPair.pem
